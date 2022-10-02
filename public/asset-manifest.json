@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/crm/static/css/main.c18ca8d6.css",
-    "main.js": "/crm/static/js/main.070fa8bf.js",
-    "static/media/logoazul.png": "/crm/static/media/logoazul.6a8b1e8838193d88b517.png",
-    "static/media/update.png": "/crm/static/media/update.f5c8868d891c9057f805.png",
-    "index.html": "/crm/index.html",
-    "main.c18ca8d6.css.map": "/crm/static/css/main.c18ca8d6.css.map",
-    "main.070fa8bf.js.map": "/crm/static/js/main.070fa8bf.js.map"
+    "main.css": "/ozcrm/static/css/main.c18ca8d6.css",
+    "main.js": "/ozcrm/static/js/main.11ae133b.js",
+    "static/media/logoazul.png": "/ozcrm/static/media/logoazul.6a8b1e8838193d88b517.png",
+    "static/media/update.png": "/ozcrm/static/media/update.f5c8868d891c9057f805.png",
+    "index.html": "/ozcrm/index.html",
+    "main.c18ca8d6.css.map": "/ozcrm/static/css/main.c18ca8d6.css.map",
+    "main.11ae133b.js.map": "/ozcrm/static/js/main.11ae133b.js.map"
   },
   "entrypoints": [
     "static/css/main.c18ca8d6.css",
-    "static/js/main.070fa8bf.js"
+    "static/js/main.11ae133b.js"
   ]
 }
